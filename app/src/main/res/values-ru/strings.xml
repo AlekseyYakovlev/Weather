@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="action_settings">Настройки</string>
+    <string name="section_format">Привет мир с закладки: %1$d</string>
+    <string name="action_locations">Местоположения</string>
+    <string name="action_set_location">Выбрать город</string>
+</resources>
